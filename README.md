@@ -34,6 +34,3 @@ The dashboard uses Pivot Tables, Pivot Charts, and Slicers to make the sales dat
 
 The objective of this project is to transform raw sales data into an interactive dashboard that helps understand revenue performance, product trends, customer spending, and order patterns.
 
-## File
-
-**FNP Sales & Revenue Analysis Dashboard.xlsx** – Excel dashboard and analysis file.
